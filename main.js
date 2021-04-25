@@ -4,3 +4,5 @@ const app = require('./src/app')
 const port = process.env.PORT || config.get('port')
 
 app.listen(port, () => console.log(`server is running at ${port}`))
+
+// zmiana
