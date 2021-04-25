@@ -8,9 +8,5 @@
         "Options":{
             "undefinedTopology": true
         }
-    }/*,
-    "mailGun": {
-    "api_key": "5ddbb8683bf002a8dea5bf89ff90517c-71b35d7e-5c43143f",
-    "domain": "sandboxdf365effcf704bd4a5a88720d790cac9.mailgun.org"
     }
-} */
+}
